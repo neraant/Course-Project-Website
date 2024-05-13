@@ -3,7 +3,7 @@
 <productCard>
     <id>1</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product1.jpg</mainImage>
+        <mainImage>images/Collections-page/product1.jpg</mainImage>
         <productCardInformationInner>
             <title>White down jacket</title>
             <cost>2200$</cost>
@@ -22,20 +22,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product1.jpg</topImage>
-            <topImage>/Images/Collections-page/product1.jpg</topImage>
+            <topImage>images/Collections-page/product1.jpg</topImage>
+            <topImage>images/Collections-page/product1.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product1.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product1.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product1.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product1.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product1.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product1.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product1.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product1.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product1.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product1.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product1.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product1.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product1.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product1.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product1.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product1.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -43,7 +43,7 @@
 <productCard>
     <id>2</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product2.jpg</mainImage>
+        <mainImage>images/Collections-page/product2.jpg</mainImage>
         <productCardInformationInner>
             <title>Jacket brown glossy</title>
             <cost>3500$</cost>
@@ -62,20 +62,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product2.jpg</topImage>
-            <topImage>/Images/Collections-page/product2.jpg</topImage>
+            <topImage>images/Collections-page/product2.jpg</topImage>
+            <topImage>images/Collections-page/product2.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product2.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product2.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product2.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product2.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product2.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product2.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product2.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product2.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product2.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product2.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product2.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product2.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product2.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product2.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product2.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product2.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -83,7 +83,7 @@
 <productCard>
     <id>3</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product3.jpg</mainImage>
+        <mainImage>images/Collections-page/product3.jpg</mainImage>
         <productCardInformationInner>
             <title>Blue fleece jacket</title>
             <cost>1900$</cost>
@@ -102,20 +102,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product3.jpg</topImage>
-            <topImage>/Images/Collections-page/product3.jpg</topImage>
+            <topImage>images/Collections-page/product3.jpg</topImage>
+            <topImage>images/Collections-page/product3.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product3.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product3.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product3.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product3.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product3.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product3.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product3.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product3.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product3.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product3.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product3.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product3.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product3.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product3.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product3.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product3.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -123,7 +123,7 @@
 <productCard>
     <id>4</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product4.jpg</mainImage>
+        <mainImage>images/Collections-page/product4.jpg</mainImage>
         <productCardInformationInner>
             <title>White baggy shorts</title>
             <cost>900$</cost>
@@ -142,20 +142,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product4.jpg</topImage>
-            <topImage>/Images/Collections-page/product4.jpg</topImage>
+            <topImage>images/Collections-page/product4.jpg</topImage>
+            <topImage>images/Collections-page/product4.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product4.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product4.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product4.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product4.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product4.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product4.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product4.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product4.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product4.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product4.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product4.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product4.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product4.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product4.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product4.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product4.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -163,7 +163,7 @@
 <productCard>
     <id>5</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product5.jpg</mainImage>
+        <mainImage>images/Collections-page/product5.jpg</mainImage>
         <productCardInformationInner>
             <title>Shorts black glossy</title>
             <cost>1100$</cost>
@@ -182,20 +182,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product5.jpg</topImage>
-            <topImage>/Images/Collections-page/product5.jpg</topImage>
+            <topImage>images/Collections-page/product5.jpg</topImage>
+            <topImage>images/Collections-page/product5.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product5.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product5.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product5.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product5.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product5.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product5.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product5.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product5.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product5.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product5.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product5.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product5.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product5.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product5.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product5.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product5.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -203,7 +203,7 @@
 <productCard>
     <id>6</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product6.jpg</mainImage>
+        <mainImage>images/Collections-page/product6.jpg</mainImage>
         <productCardInformationInner>
             <title>Coral bologna shorts</title>
             <cost>1500$</cost>
@@ -222,20 +222,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product6.jpg</topImage>
-            <topImage>/Images/Collections-page/product6.jpg</topImage>
+            <topImage>images/Collections-page/product6.jpg</topImage>
+            <topImage>images/Collections-page/product6.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product6.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product6.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product6.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product6.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product6.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product6.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product6.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product6.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product6.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product6.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product6.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product6.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product6.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product6.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product6.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product6.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -243,7 +243,7 @@
 <productCard>
     <id>7</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product7.jpg</mainImage>
+        <mainImage>images/Collections-page/product7.jpg</mainImage>
         <productCardInformationInner>
             <title>White baggy sneakers</title>
             <cost>2700$</cost>
@@ -262,20 +262,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product7.jpg</topImage>
-            <topImage>/Images/Collections-page/product7.jpg</topImage>
+            <topImage>images/Collections-page/product7.jpg</topImage>
+            <topImage>images/Collections-page/product7.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product7.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product7.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product7.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product7.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product7.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product7.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product7.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product7.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product7.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product7.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product7.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product7.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product7.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product7.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product7.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product7.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -283,7 +283,7 @@
 <productCard>
     <id>8</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product8.jpg</mainImage>
+        <mainImage>images/Collections-page/product8.jpg</mainImage>
         <productCardInformationInner>
             <title>Boots black glossy</title>
             <cost>3000$</cost>
@@ -302,20 +302,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product8.jpg</topImage>
-            <topImage>/Images/Collections-page/product8.jpg</topImage>
+            <topImage>images/Collections-page/product8.jpg</topImage>
+            <topImage>images/Collections-page/product8.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product8.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product8.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product8.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product8.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product8.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product8.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product8.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product8.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product8.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product8.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product8.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product8.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product8.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product8.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product8.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product8.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -323,7 +323,7 @@
 <productCard>
     <id>9</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product9.jpg</mainImage>
+        <mainImage>images/Collections-page/product9.jpg</mainImage>
         <productCardInformationInner>
             <title>Bologna wading boots</title>
             <cost>2300$</cost>
@@ -342,20 +342,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product9.jpg</topImage>
-            <topImage>/Images/Collections-page/product9.jpg</topImage>
+            <topImage>images/Collections-page/product9.jpg</topImage>
+            <topImage>images/Collections-page/product9.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product9.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product9.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product9.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product9.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product9.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product9.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product9.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product9.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product9.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product9.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product9.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product9.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product9.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product9.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product9.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product9.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -363,7 +363,7 @@
 <productCard>
     <id>10</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product10.jpg</mainImage>
+        <mainImage>images/Collections-page/product10.jpg</mainImage>
         <productCardInformationInner>
             <title>White baggy T-shirt</title>
             <cost>9000$</cost>
@@ -382,20 +382,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product10.jpg</topImage>
-            <topImage>/Images/Collections-page/product10.jpg</topImage>
+            <topImage>images/Collections-page/product10.jpg</topImage>
+            <topImage>images/Collections-page/product10.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product10.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product10.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product10.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product10.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product10.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product10.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product10.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product10.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product10.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product10.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product10.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product10.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product10.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product10.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product10.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product10.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -405,7 +405,7 @@
 <productCard>
     <id>11</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product11.jpg</mainImage>
+        <mainImage>images/Collections-page/product11.jpg</mainImage>
         <productCardInformationInner>
             <title>T-shirt black glossy</title>
             <cost>1100$</cost>
@@ -424,20 +424,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product11.jpg</topImage>
-            <topImage>/Images/Collections-page/product11.jpg</topImage>
+            <topImage>images/Collections-page/product11.jpg</topImage>
+            <topImage>images/Collections-page/product11.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product11.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product11.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product11.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product11.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product11.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product11.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product11.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product11.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product11.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product11.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product11.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product11.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product11.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product11.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product11.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product11.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -445,7 +445,7 @@
 <productCard>
     <id>12</id>
     <generalProductInformation>
-        <mainImage>/Images/Collections-page/product12.jpg</mainImage>
+        <mainImage>images/Collections-page/product12.jpg</mainImage>
         <productCardInformationInner>
             <title>Bologna wading T-shirt</title>
             <cost>7000$</cost>
@@ -464,20 +464,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/Collections-page/product12.jpg</topImage>
-            <topImage>/Images/Collections-page/product12.jpg</topImage>
+            <topImage>images/Collections-page/product12.jpg</topImage>
+            <topImage>images/Collections-page/product12.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/Collections-page/product12.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product12.jpg</bottomImage>
-            <bottomImage>/Images/Collections-page/product12.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product12.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product12.jpg</bottomImage>
+            <bottomImage>images/Collections-page/product12.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/Collections-page/product12.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product12.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product12.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product12.jpg</sliderImage>
-            <sliderImage>/Images/Collections-page/product12.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product12.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product12.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product12.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product12.jpg</sliderImage>
+            <sliderImage>images/Collections-page/product12.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -485,7 +485,7 @@
 <productCard>
     <id>13</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product1.jpg</mainImage>
+        <mainImage>images/For-her-images/product1.jpg</mainImage>
         <productCardInformationInner>
             <title>Burgundy cargo bag</title>
             <cost>1020$</cost>
@@ -498,20 +498,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product1.jpg</topImage>
-            <topImage>/Images/For-her-images/product1.jpg</topImage>
+            <topImage>images/For-her-images/product1.jpg</topImage>
+            <topImage>images/For-her-images/product1.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product1.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product1.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product1.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product1.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product1.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product1.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product1.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product1.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product1.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product1.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product1.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product1.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product1.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product1.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product1.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product1.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -519,7 +519,7 @@
 <productCard>
     <id>14</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product2.jpg</mainImage>
+        <mainImage>images/For-her-images/product2.jpg</mainImage>
         <productCardInformationInner>
             <title>Burgundy swoosh cargo bag</title>
             <cost>900$</cost>
@@ -532,20 +532,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product2.jpg</topImage>
-            <topImage>/Images/For-her-images/product2.jpg</topImage>
+            <topImage>images/For-her-images/product2.jpg</topImage>
+            <topImage>images/For-her-images/product2.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product2.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product2.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product2.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product2.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product2.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product2.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product2.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product2.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product2.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product2.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product2.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product2.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product2.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product2.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product2.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product2.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -553,7 +553,7 @@
 <productCard>
     <id>15</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product3.jpg</mainImage>
+        <mainImage>images/For-her-images/product3.jpg</mainImage>
         <productCardInformationInner>
             <title>Burgundy baggi cargo bag</title>
             <cost>890$</cost>
@@ -566,20 +566,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product3.jpg</topImage>
-            <topImage>/Images/For-her-images/product3.jpg</topImage>
+            <topImage>images/For-her-images/product3.jpg</topImage>
+            <topImage>images/For-her-images/product3.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product3.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product3.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product3.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product3.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product3.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product3.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product3.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product3.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product3.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product3.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product3.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product3.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product3.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product3.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product3.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product3.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -587,7 +587,7 @@
 <productCard>
     <id>16</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product4.jpg</mainImage>
+        <mainImage>images/For-her-images/product4.jpg</mainImage>
         <productCardInformationInner>
             <title>Swamp swoosh cargo bag</title>
             <cost>780$</cost>
@@ -600,20 +600,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product4.jpg</topImage>
-            <topImage>/Images/For-her-images/product4.jpg</topImage>
+            <topImage>images/For-her-images/product4.jpg</topImage>
+            <topImage>images/For-her-images/product4.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product4.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product4.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product4.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product4.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product4.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product4.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product4.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product4.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product4.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product4.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product4.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product4.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product4.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product4.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product4.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product4.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -621,7 +621,7 @@
 <productCard>
     <id>17</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product5.jpg</mainImage>
+        <mainImage>images/For-her-images/product5.jpg</mainImage>
         <productCardInformationInner>
             <title>Sunny-swamp bag</title>
             <cost>900$</cost>
@@ -634,20 +634,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product5.jpg</topImage>
-            <topImage>/Images/For-her-images/product5.jpg</topImage>
+            <topImage>images/For-her-images/product5.jpg</topImage>
+            <topImage>images/For-her-images/product5.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product5.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product5.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product5.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product5.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product5.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product5.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product5.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product5.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product5.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product5.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product5.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product5.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product5.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product5.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product5.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product5.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -655,7 +655,7 @@
 <productCard>
     <id>18</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product6.jpg</mainImage>
+        <mainImage>images/For-her-images/product6.jpg</mainImage>
         <productCardInformationInner>
             <title>Oceanic baggy bag</title>
             <cost>1100$</cost>
@@ -668,20 +668,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product6.jpg</topImage>
-            <topImage>/Images/For-her-images/product6.jpg</topImage>
+            <topImage>images/For-her-images/product6.jpg</topImage>
+            <topImage>images/For-her-images/product6.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product6.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product6.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product6.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product6.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product6.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product6.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product6.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product6.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product6.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product6.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product6.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product6.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product6.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product6.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product6.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product6.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -689,7 +689,7 @@
 <productCard>
     <id>19</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product7.jpg</mainImage>
+        <mainImage>images/For-her-images/product7.jpg</mainImage>
         <productCardInformationInner>
             <title>Light-blue cargo bag</title>
             <cost>1000$</cost>
@@ -702,20 +702,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product7.jpg</topImage>
-            <topImage>/Images/For-her-images/product7.jpg</topImage>
+            <topImage>images/For-her-images/product7.jpg</topImage>
+            <topImage>images/For-her-images/product7.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product7.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product7.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product7.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product7.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product7.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product7.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product7.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product7.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product7.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product7.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product7.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product7.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product7.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product7.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product7.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product7.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -723,7 +723,7 @@
 <productCard>
     <id>20</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product8.jpg</mainImage>
+        <mainImage>images/For-her-images/product8.jpg</mainImage>
         <productCardInformationInner>
             <title>Light-flowers bag</title>
             <cost>1300$</cost>
@@ -736,20 +736,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product8.jpg</topImage>
-            <topImage>/Images/For-her-images/product8.jpg</topImage>
+            <topImage>images/For-her-images/product8.jpg</topImage>
+            <topImage>images/For-her-images/product8.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product8.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product8.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product8.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product8.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product8.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product8.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product8.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product8.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product8.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product8.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product8.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product8.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product8.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product8.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product8.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product8.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -759,7 +759,7 @@
 <productCard>
     <id>21</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product9.jpg</mainImage>
+        <mainImage>images/For-her-images/product9.jpg</mainImage>
         <productCardInformationInner>
             <title>Light-blue bag</title>
             <cost>920$</cost>
@@ -772,20 +772,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product9.jpg</topImage>
-            <topImage>/Images/For-her-images/product9.jpg</topImage>
+            <topImage>images/For-her-images/product9.jpg</topImage>
+            <topImage>images/For-her-images/product9.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product9.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product9.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product9.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product9.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product9.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product9.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product9.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product9.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product9.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product9.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product9.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product9.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product9.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product9.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product9.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product9.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -793,7 +793,7 @@
 <productCard>
     <id>22</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product10.jpg</mainImage>
+        <mainImage>images/For-her-images/product10.jpg</mainImage>
         <productCardInformationInner>
             <title>Aquamarine ocean bag</title>
             <cost>2500$</cost>
@@ -806,20 +806,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product10.jpg</topImage>
-            <topImage>/Images/For-her-images/product10.jpg</topImage>
+            <topImage>images/For-her-images/product10.jpg</topImage>
+            <topImage>images/For-her-images/product10.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product10.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product10.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product10.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product10.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product10.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product10.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product10.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product10.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product10.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product10.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product10.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product10.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product10.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product10.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product10.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product10.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -827,7 +827,7 @@
 <productCard>
     <id>23</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product11.jpg</mainImage>
+        <mainImage>images/For-her-images/product11.jpg</mainImage>
         <productCardInformationInner>
             <title>Blue swoosh bag</title>
             <cost>1050$</cost>
@@ -840,20 +840,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product11.jpg</topImage>
-            <topImage>/Images/For-her-images/product11.jpg</topImage>
+            <topImage>images/For-her-images/product11.jpg</topImage>
+            <topImage>images/For-her-images/product11.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product11.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product11.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product11.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product11.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product11.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product11.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product11.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product11.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product11.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product11.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product11.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product11.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product11.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product11.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product11.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product11.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -861,7 +861,7 @@
 <productCard>
     <id>24</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product12.jpg</mainImage>
+        <mainImage>images/For-her-images/product12.jpg</mainImage>
         <productCardInformationInner>
             <title>Casual light-blue bag</title>
             <cost>990$</cost>
@@ -874,20 +874,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product12.jpg</topImage>
-            <topImage>/Images/For-her-images/product12.jpg</topImage>
+            <topImage>images/For-her-images/product12.jpg</topImage>
+            <topImage>images/For-her-images/product12.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product12.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product12.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product12.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product12.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product12.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product12.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product12.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product12.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product12.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product12.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product12.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product12.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product12.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product12.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product12.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product12.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -895,7 +895,7 @@
 <productCard>
     <id>25</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product13.jpg</mainImage>
+        <mainImage>images/For-her-images/product13.jpg</mainImage>
         <productCardInformationInner>
             <title>Burgundy dress</title>
             <cost>850$</cost>
@@ -914,20 +914,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product13.jpg</topImage>
-            <topImage>/Images/For-her-images/product13.jpg</topImage>
+            <topImage>images/For-her-images/product13.jpg</topImage>
+            <topImage>images/For-her-images/product13.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product13.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product13.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product13.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product13.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product13.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product13.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product13.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product13.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product13.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product13.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product13.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product13.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product13.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product13.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product13.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product13.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -935,7 +935,7 @@
 <productCard>
     <id>26</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product14.jpg</mainImage>
+        <mainImage>images/For-her-images/product14.jpg</mainImage>
         <productCardInformationInner>
             <title>Burgundy warm dress</title>
             <cost>730$</cost>
@@ -954,20 +954,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product14.jpg</topImage>
-            <topImage>/Images/For-her-images/product14.jpg</topImage>
+            <topImage>images/For-her-images/product14.jpg</topImage>
+            <topImage>images/For-her-images/product14.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product14.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product14.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product14.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product14.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product14.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product14.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product14.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product14.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product14.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product14.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product14.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product14.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product14.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product14.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product14.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product14.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -975,7 +975,7 @@
 <productCard>
     <id>27</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product15.jpg</mainImage>
+        <mainImage>images/For-her-images/product15.jpg</mainImage>
         <productCardInformationInner>
             <title>Japanese burgundy dress</title>
             <cost>1690$</cost>
@@ -994,20 +994,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product15.jpg</topImage>
-            <topImage>/Images/For-her-images/product15.jpg</topImage>
+            <topImage>images/For-her-images/product15.jpg</topImage>
+            <topImage>images/For-her-images/product15.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product15.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product15.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product15.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product15.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product15.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product15.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product15.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product15.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product15.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product15.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product15.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product15.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product15.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product15.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product15.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product15.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1015,7 +1015,7 @@
 <productCard>
     <id>28</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product16.jpg</mainImage>
+        <mainImage>images/For-her-images/product16.jpg</mainImage>
         <productCardInformationInner>
             <title>Light-spring dress</title>
             <cost>1550$</cost>
@@ -1034,20 +1034,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product16.jpg</topImage>
-            <topImage>/Images/For-her-images/product16.jpg</topImage>
+            <topImage>images/For-her-images/product16.jpg</topImage>
+            <topImage>images/For-her-images/product16.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product16.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product16.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product16.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product16.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product16.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product16.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product16.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product16.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product16.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product16.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product16.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product16.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product16.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product16.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product16.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product16.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1055,7 +1055,7 @@
 <productCard>
     <id>29</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product17.jpg</mainImage>
+        <mainImage>images/For-her-images/product17.jpg</mainImage>
         <productCardInformationInner>
             <title>Freeze princess dress</title>
             <cost>1100$</cost>
@@ -1074,20 +1074,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product17.jpg</topImage>
-            <topImage>/Images/For-her-images/product17.jpg</topImage>
+            <topImage>images/For-her-images/product17.jpg</topImage>
+            <topImage>images/For-her-images/product17.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product17.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product17.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product17.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product17.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product17.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product17.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product17.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product17.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product17.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product17.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product17.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product17.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product17.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product17.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product17.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product17.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1095,7 +1095,7 @@
 <productCard>
     <id>30</id>
     <generalProductInformation>
-        <mainImage>/Images/For-her-images/product18.jpg</mainImage>
+        <mainImage>images/For-her-images/product18.jpg</mainImage>
         <productCardInformationInner>
             <title>Casual light-blue dress</title>
             <cost>2000$</cost>
@@ -1114,20 +1114,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-her-images/product18.jpg</topImage>
-            <topImage>/Images/For-her-images/product18.jpg</topImage>
+            <topImage>images/For-her-images/product18.jpg</topImage>
+            <topImage>images/For-her-images/product18.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-her-images/product18.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product18.jpg</bottomImage>
-            <bottomImage>/Images/For-her-images/product18.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product18.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product18.jpg</bottomImage>
+            <bottomImage>images/For-her-images/product18.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-her-images/product18.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product18.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product18.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product18.jpg</sliderImage>
-            <sliderImage>/Images/For-her-images/product18.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product18.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product18.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product18.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product18.jpg</sliderImage>
+            <sliderImage>images/For-her-images/product18.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1137,7 +1137,7 @@
 <productCard>
     <id>31</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product1.jpg</mainImage>
+        <mainImage>images/For-him-images/product1.jpg</mainImage>
         <productCardInformationInner>
             <title>White sweater</title>
             <cost>320$</cost>
@@ -1156,20 +1156,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product1.jpg</topImage>
-            <topImage>/Images/For-him-images/product1.jpg</topImage>
+            <topImage>images/For-him-images/product1.jpg</topImage>
+            <topImage>images/For-him-images/product1.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product1.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product1.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product1.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product1.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product1.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product1.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product1.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product1.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product1.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product1.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product1.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product1.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product1.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product1.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product1.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product1.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1177,7 +1177,7 @@
 <productCard>
     <id>32</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product2.jpg</mainImage>
+        <mainImage>images/For-him-images/product2.jpg</mainImage>
         <productCardInformationInner>
             <title>White baggy sweater</title>
             <cost>320$</cost>
@@ -1196,20 +1196,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product2.jpg</topImage>
-            <topImage>/Images/For-him-images/product2.jpg</topImage>
+            <topImage>images/For-him-images/product2.jpg</topImage>
+            <topImage>images/For-him-images/product2.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product2.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product2.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product2.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product2.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product2.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product2.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product2.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product2.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product2.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product2.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product2.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product2.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product2.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product2.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product2.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product2.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1217,7 +1217,7 @@
 <productCard>
     <id>33</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product3.jpg</mainImage>
+        <mainImage>images/For-him-images/product3.jpg</mainImage>
         <productCardInformationInner>
             <title>Cream-white sweater</title>
             <cost>490$</cost>
@@ -1236,20 +1236,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product3.jpg</topImage>
-            <topImage>/Images/For-him-images/product3.jpg</topImage>
+            <topImage>images/For-him-images/product3.jpg</topImage>
+            <topImage>images/For-him-images/product3.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product3.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product3.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product3.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product3.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product3.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product3.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product3.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product3.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product3.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product3.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product3.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product3.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product3.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product3.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product3.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product3.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1257,7 +1257,7 @@
 <productCard>
     <id>34</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product4.jpg</mainImage>
+        <mainImage>images/For-him-images/product4.jpg</mainImage>
         <productCardInformationInner>
             <title>Dark-green sweater</title>
             <cost>290$</cost>
@@ -1276,20 +1276,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product4.jpg</topImage>
-            <topImage>/Images/For-him-images/product4.jpg</topImage>
+            <topImage>images/For-him-images/product4.jpg</topImage>
+            <topImage>images/For-him-images/product4.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product4.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product4.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product4.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product4.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product4.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product4.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product4.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product4.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product4.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product4.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product4.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product4.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product4.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product4.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product4.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product4.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1297,7 +1297,7 @@
 <productCard>
     <id>35</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product5.jpg</mainImage>
+        <mainImage>images/For-him-images/product5.jpg</mainImage>
         <productCardInformationInner>
             <title>Swamp fleece sweater</title>
             <cost>950$</cost>
@@ -1316,20 +1316,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product5.jpg</topImage>
-            <topImage>/Images/For-him-images/product5.jpg</topImage>
+            <topImage>images/For-him-images/product5.jpg</topImage>
+            <topImage>images/For-him-images/product5.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product5.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product5.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product5.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product5.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product5.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product5.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product5.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product5.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product5.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product5.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product5.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product5.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product5.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product5.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product5.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product5.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1337,7 +1337,7 @@
 <productCard>
     <id>36</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product6.jpg</mainImage>
+        <mainImage>images/For-him-images/product6.jpg</mainImage>
         <productCardInformationInner>
             <title>Casual green sweater</title>
             <cost>550$</cost>
@@ -1356,20 +1356,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product6.jpg</topImage>
-            <topImage>/Images/For-him-images/product6.jpg</topImage>
+            <topImage>images/For-him-images/product6.jpg</topImage>
+            <topImage>images/For-him-images/product6.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product6.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product6.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product6.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product6.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product6.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product6.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product6.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product6.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product6.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product6.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product6.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product6.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product6.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product6.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product6.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product6.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1377,7 +1377,7 @@
 <productCard>
     <id>37</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product7.jpg</mainImage>
+        <mainImage>images/For-him-images/product7.jpg</mainImage>
         <productCardInformationInner>
             <title>Casual blue sweater</title>
             <cost>590$</cost>
@@ -1396,20 +1396,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product7.jpg</topImage>
-            <topImage>/Images/For-him-images/product7.jpg</topImage>
+            <topImage>images/For-him-images/product7.jpg</topImage>
+            <topImage>images/For-him-images/product7.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product7.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product7.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product7.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product7.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product7.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product7.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product7.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product7.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product7.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product7.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product7.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product7.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product7.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product7.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product7.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product7.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1417,7 +1417,7 @@
 <productCard>
     <id>38</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product8.jpg</mainImage>
+        <mainImage>images/For-him-images/product8.jpg</mainImage>
         <productCardInformationInner>
             <title>Laguna sweater</title>
             <cost>900$</cost>
@@ -1436,20 +1436,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product8.jpg</topImage>
-            <topImage>/Images/For-him-images/product8.jpg</topImage>
+            <topImage>images/For-him-images/product8.jpg</topImage>
+            <topImage>images/For-him-images/product8.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product8.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product8.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product8.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product8.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product8.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product8.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product8.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product8.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product8.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product8.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product8.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product8.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product8.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product8.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product8.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product8.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1457,7 +1457,7 @@
 <productCard>
     <id>39</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product9.jpg</mainImage>
+        <mainImage>images/For-him-images/product9.jpg</mainImage>
         <productCardInformationInner>
             <title>Light-blue sweater</title>
             <cost>450$</cost>
@@ -1476,20 +1476,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product9.jpg</topImage>
-            <topImage>/Images/For-him-images/product9.jpg</topImage>
+            <topImage>images/For-him-images/product9.jpg</topImage>
+            <topImage>images/For-him-images/product9.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product9.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product9.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product9.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product9.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product9.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product9.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product9.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product9.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product9.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product9.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product9.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product9.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product9.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product9.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product9.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product9.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1497,7 +1497,7 @@
 <productCard>
     <id>40</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product10.jpg</mainImage>
+        <mainImage>images/For-him-images/product10.jpg</mainImage>
         <productCardInformationInner>
             <title>Light-pink sweater</title>
             <cost>270$</cost>
@@ -1516,20 +1516,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product10.jpg</topImage>
-            <topImage>/Images/For-him-images/product10.jpg</topImage>
+            <topImage>images/For-him-images/product10.jpg</topImage>
+            <topImage>images/For-him-images/product10.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product10.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product10.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product10.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product10.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product10.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product10.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product10.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product10.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product10.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product10.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product10.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product10.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product10.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product10.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product10.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product10.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1539,7 +1539,7 @@
 <productCard>
     <id>41</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product11.jpg</mainImage>
+        <mainImage>images/For-him-images/product11.jpg</mainImage>
         <productCardInformationInner>
             <title>Pink swoosh sweater</title>
             <cost>1050$</cost>
@@ -1558,20 +1558,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product11.jpg</topImage>
-            <topImage>/Images/For-him-images/product11.jpg</topImage>
+            <topImage>images/For-him-images/product11.jpg</topImage>
+            <topImage>images/For-him-images/product11.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product11.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product11.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product11.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product11.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product11.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product11.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product11.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product11.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product11.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product11.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product11.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product11.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product11.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product11.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product11.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product11.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
@@ -1579,7 +1579,7 @@
 <productCard> 
     <id>42</id>
     <generalProductInformation>
-        <mainImage>/Images/For-him-images/product12.jpg</mainImage>
+        <mainImage>images/For-him-images/product12.jpg</mainImage>
         <productCardInformationInner>
             <title>Casual light-pink sweater</title>
             <cost>430$</cost>
@@ -1598,20 +1598,20 @@
     </generalProductInformation>
     <productCardGallery>
         <topImages>
-            <topImage>/Images/For-him-images/product12.jpg</topImage>
-            <topImage>/Images/For-him-images/product12.jpg</topImage>
+            <topImage>images/For-him-images/product12.jpg</topImage>
+            <topImage>images/For-him-images/product12.jpg</topImage>
         </topImages>
         <bottomImages>
-            <bottomImage>/Images/For-him-images/product12.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product12.jpg</bottomImage>
-            <bottomImage>/Images/For-him-images/product12.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product12.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product12.jpg</bottomImage>
+            <bottomImage>images/For-him-images/product12.jpg</bottomImage>
         </bottomImages>
         <sliderImages>
-            <sliderImage>/Images/For-him-images/product12.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product12.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product12.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product12.jpg</sliderImage>
-            <sliderImage>/Images/For-him-images/product12.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product12.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product12.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product12.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product12.jpg</sliderImage>
+            <sliderImage>images/For-him-images/product12.jpg</sliderImage>
         </sliderImages>
     </productCardGallery>
 </productCard>
