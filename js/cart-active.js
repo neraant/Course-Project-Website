@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function() {
                      for(let i = 1; i <= 12; i++ )
                      {
                          newProduct.innerHTML = `
-                         <a href="/product.html" class="product__image__link">
+                         <a href="product.html" class="product__image__link">
                              <img src="${product.image}" alt="" class="product__image">
                          </a>
                          <div class="product__description">
@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", function() {
                      for(let i = 13; i <= 30; i++)
                      {
                          newProduct.innerHTML = `
-                         <a href="/product.html" class="product__image__link">
+                         <a href="product.html" class="product__image__link">
                              <img src="${product.image}" alt="" class="product__image">
                          </a>
                          <div class="product__description">
@@ -136,7 +136,7 @@ document.addEventListener("DOMContentLoaded", function() {
                      for(let i = 31; i <= 42; i++ )
                      {
                          newProduct.innerHTML = `
-                         <a href="/product.html" class="product__image__link">
+                         <a href="product.html" class="product__image__link">
                              <img src="${product.image}" alt="" class="product__image">
                          </a>
                          <div class="product__description">
