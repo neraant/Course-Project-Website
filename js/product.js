@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     let params = new URLSearchParams(window.location.search);
     let urlId = params.get('id')
 
-    fetch('product-card.xml')
+    fetch('/product-card.xml')
     .then(response => response.text())
     .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
     .then(data => {
