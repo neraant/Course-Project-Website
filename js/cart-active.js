@@ -93,7 +93,7 @@ document.addEventListener("DOMContentLoaded", function() {
                      {
                          newProduct.innerHTML = `
                          <a href="product.html?id=${product.id}" class="product__image__link">
-                             <img src="${product.image}" alt="" class="product__image">
+                             <img src="${product.image}" alt="product-image" class="product__image">
                          </a>
                          <div class="product__description">
                              <div class="prodcut__information">
@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", function() {
                      {
                          newProduct.innerHTML = `
                          <a href="product.html?id=${product.id}" class="product__image__link">
-                             <img src="${product.image}" alt="" class="product__image">
+                             <img src="${product.image}" alt="product-image" class="product__image">
                          </a>
                          <div class="product__description">
                              <div class="prodcut__information">
@@ -137,7 +137,7 @@ document.addEventListener("DOMContentLoaded", function() {
                      {
                          newProduct.innerHTML = `
                          <a href="product.html?id=${product.id}" class="product__image__link">
-                             <img src="${product.image}" alt="" class="product__image">
+                             <img src="${product.image}" alt="product-image" class="product__image">
                          </a>
                          <div class="product__description">
                              <div class="prodcut__information">
