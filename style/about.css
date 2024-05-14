@@ -1,11 +1,10 @@
-@import url(/Style/sndex.css);
 .main {
   background-color: #fff;
 }
 .main .top__main {
   position: relative;
   min-height: 500px;
-  background-image: url(/Images/About-images/background.jpg);
+  background-image: url(images/About-images/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
