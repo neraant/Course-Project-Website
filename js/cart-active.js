@@ -86,13 +86,12 @@ document.addEventListener("DOMContentLoaded", function() {
                  // Определяем URL в зависимости от webNum и id товара
                  let productUrl = `/product.html?id=${product.id}`;
 
-
                  if(webNum == 1 && product.id >= 1 && product.id <= 12) 
                  {
                      for(let i = 1; i <= 12; i++ )
                      {
                          newProduct.innerHTML = `
-                         <a href="product.html?id=${product.id}" class="product__image__link">
+                         <a href="${productUrl}" class="product__image__link">
                              <img src="${product.image}" alt="product-image" class="product__image">
                          </a>
                          <div class="product__description">
@@ -114,7 +113,7 @@ document.addEventListener("DOMContentLoaded", function() {
                      for(let i = 13; i <= 30; i++)
                      {
                          newProduct.innerHTML = `
-                         <a href="product.html?id=${product.id}" class="product__image__link">
+                         <a href="${productUrl}" class="product__image__link">
                              <img src="${product.image}" alt="product-image" class="product__image">
                          </a>
                          <div class="product__description">
@@ -136,7 +135,7 @@ document.addEventListener("DOMContentLoaded", function() {
                      for(let i = 31; i <= 42; i++ )
                      {
                          newProduct.innerHTML = `
-                         <a href="product.html?id=${product.id}" class="product__image__link">
+                         <a href="${productUrl}" class="product__image__link">
                              <img src="${product.image}" alt="product-image" class="product__image">
                          </a>
                          <div class="product__description">
